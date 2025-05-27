@@ -10,7 +10,7 @@ import {
 import { useState,useEffect } from 'react';
 import { MarkerData } from '@/types/type';
 import MapViewDirections from 'react-native-maps-directions';
-const ROUTES_API_KEY = "AIzaSyB4meH6iJJd7eBE2Wg4mnsXOS9zfz5diUY";
+const ROUTES_API_KEY = "KEY";
 
 
 
