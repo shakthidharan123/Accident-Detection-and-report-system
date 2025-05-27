@@ -11,7 +11,7 @@ import { useLocationStore } from "../../store/index";
 // const homeip = "192.168.20.181";
 // const collegeip = "10.5.7.210";
 const hostel_ip = "10.5.15.200"
-const GOOGLE_API_KEY = "AIzaSyB4meH6iJJd7eBE2Wg4mnsXOS9zfz5diUY"; // 🔴 Replace with your actual Google API Key
+const GOOGLE_API_KEY = "Your API KEY"; // 🔴 Replace with your actual Google API Key
 
 const Accident = () => {
   const { setUserLocation } = useLocationStore();
